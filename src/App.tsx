@@ -1,7 +1,7 @@
 function App() {
     return (
         <>
-            <button>save hello kanybek и aziret krash</button>
+            <button>Azire </button>
         </>
     );
 }
