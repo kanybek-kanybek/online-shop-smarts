@@ -1,12 +1,7 @@
 function App() {
     return (
         <>
-            <button>
-                save hello kanybek aziret hweghepqovhewn
-                fhqeqioghqeoiebvioevbieovbewibe geqgeqq
-                vboaevbiokdbnokrbnisrkovbdfjkon
-                vbeiovbiowbvipebwivbiewbvievgbeiowvbweobve
-            </button>
+            <button>save hello kanybek и aziret krash</button>
         </>
     );
 }
