@@ -1,7 +1,7 @@
 function App() {
     return (
         <>
-            <button>Aziret </button>
+            <button>Aziret i Kanybek </button>
         </>
     );
 }
