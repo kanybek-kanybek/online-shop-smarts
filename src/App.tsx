@@ -1,7 +1,11 @@
 function App() {
     return (
         <>
-            <h1>hello smarts</h1>
+            <button>
+                save hello kanybek aziret hweghepqovhewn
+                fhqeqioghqeoiebvioevbieovbewibe geqgeqq
+                vboaevbiokdbnokrbnisrkovbdfjkon
+            </button>
         </>
     );
 }
